@@ -41,36 +41,36 @@
 	<tr>
 		<td width="132" bgcolor="#f2f2f2" style="border: 1px solid #aaaaaa; padding: 0.03in">
 
-<font color="#000000"><font face="Arial, serif"><font size="2" style="font-size: 10pt">**Command**</font></font></font>
+<font color="#000000"><font face="Arial, serif"><font size="2" style="font-size: 10pt">Command</font></font></font>
 
 		</td>
 		<td width="196" bgcolor="#f2f2f2" style="border: 1px solid #aaaaaa; padding: 0.03in">
 
-			<font color="#000000"><font face="Arial, serif"><font size="2" style="font-size: 10pt">**Parameters
-			NOTE:**</font></font></font>
+			<font color="#000000"><font face="Arial, serif"><font size="2" style="font-size: 10pt">Parameters
+			NOTE:</font></font></font>
 
-			<font color="#000000">“<font face="Arial, serif"><font size="2" style="font-size: 10pt">**&lt;
-			&gt;” is required;**</font></font></font>
+			<font color="#000000"><font face="Arial, serif"><font size="2" style="font-size: 10pt">"&lt;
+			&gt;" is required;</font></font></font>
 
-			<font color="#000000">“<font face="Arial, serif"><font size="2" style="font-size: 10pt">**[
-			]” is optional.**</font></font></font>
+			<font color="#000000"><font face="Arial, serif"><font size="2" style="font-size: 10pt">"[
+			]" is optional.</font></font></font>
 
 		</td>
 		<td width="234" bgcolor="#f2f2f2" style="border: 1px solid #aaaaaa; padding: 0.03in">
 
-<font color="#000000"><font face="Arial, serif"><font size="2" style="font-size: 10pt">**Description**</font></font></font>
+<font color="#000000"><font face="Arial, serif"><font size="2" style="font-size: 10pt">Description</font></font></font>
 
 		</td>
 		<td width="55" bgcolor="#f2f2f2" style="border: 1px solid #aaaaaa; padding: 0.03in">
 
-<font color="#000000"><font face="Arial, serif"><font size="2" style="font-size: 10pt">**Requires
-			unlocked wallet? **</font></font></font>
+<font color="#000000"><font face="Arial, serif"><font size="2" style="font-size: 10pt">Requires
+			unlocked wallet? </font></font></font>
 
 		</td>
 		<td width="229" bgcolor="#f2f2f2" style="border: 1px solid #aaaaaa; padding-top: 0.01in; padding-bottom: 0.01in; padding-left: 0.02in; padding-right: 0.01in">
 
-<font color="#000000"><font face="Arial, serif"><font size="2" style="font-size: 10pt">**Return
-			result**</font></font></font>
+<font color="#000000"><font face="Arial, serif"><font size="2" style="font-size: 10pt">Return
+			result</font></font></font>
 
 		</td>
 	</tr>
