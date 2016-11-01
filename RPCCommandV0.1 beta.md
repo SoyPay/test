@@ -1,33 +1,3 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
-	<meta name="generator" content="LibreOffice 4.3.7.2 (Linux)"/>
-	<meta name="author" content="Administrator"/>
-	<meta name="created" content="2016-08-30T02:50:00"/>
-	<meta name="changedby" content="AutoBVT"/>
-	<meta name="changed" content="2016-10-12T06:50:00"/>
-	<meta name="AppVersion" content="12.0000"/>
-	<meta name="Company" content="china"/>
-	<meta name="DocSecurity" content="0"/>
-	<meta name="HyperlinksChanged" content="false"/>
-	<meta name="LinksUpToDate" content="false"/>
-	<meta name="ScaleCrop" content="false"/>
-	<meta name="ShareDoc" content="false"/>
-	<style type="text/css">
-		@page { size: 11.69in 8.27in; margin-left: 1in; margin-right: 1in; margin-top: 1.25in; margin-bottom: 1.25in }
-		p { margin-bottom: 0.1in; direction: ltr; line-height: 120%; text-align: left; widows: 2; orphans: 2 }
-		p.western { font-family: "Tahoma", serif }
-		a:link { color: #0000ff; so-language: zxx }
-	</style>
-</head>
-<body lang="en-US" link="#0000ff" dir="ltr">
-<p class="western" style="margin-bottom: 0.14in; line-height: 0.15in">
-<br/>
-<br/>
-
-</p>
 <table width="859" cellpadding="1" cellspacing="0" bgcolor="#f9f9f9">
 	<colgroup>
 		<col width="132">
@@ -2206,9 +2176,3 @@
 	</tr>
 </table>
 <p class="western" style="margin-bottom: 0.14in; line-height: 0.15in">
-<br/>
-<br/>
-
-</p>
-</body>
-</html>
