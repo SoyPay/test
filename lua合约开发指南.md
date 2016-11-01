@@ -901,8 +901,7 @@ Main()
 lang="zh-CN">以上面的示例代码为例，将其代码保存为</span>test.lua<span
 lang="zh-CN">，文件格式保存为</span>utf-8<span lang="zh-CN">：</span>
 
-<h3 id=__RefHeading__1758_1702457476> 3.1 <span lang="zh-CN">启动</span>dacrs<span lang="zh-CN">程序</span>
-------------------------------------------------------------------------------
+<h3 id=__RefHeading__1758_1702457476> 3.1 <span lang="zh-CN">启动</span>dacrs<span lang="zh-CN">程序</span></h3>
 
 <span lang="zh-CN">最好在</span>linux<span
 lang="zh-CN">下测试，</span>windows<span
@@ -1736,7 +1735,7 @@ lang="zh-CN">字节（</span>0x02<span lang="zh-CN">）</span>+ <span
 lang="zh-CN">提现金额 </span>8<span
 lang="zh-CN">字节（</span>500000000<span lang="zh-CN">）</span>
 
-\
+
 
 <span lang="zh-CN">将合约内容转换成</span>16<span
 lang="zh-CN">进制字符串</span>
@@ -1872,7 +1871,7 @@ lang="zh-CN">如果在开发过程中，边写代码边调试，可能写的代�
 
 
 
-<h2 id=__RefHeading__1778_1702457476>4部署</h>  
+<h2 id=__RefHeading__1778_1702457476>4部署</h2>  
 
 <span
 lang="zh-CN">在局域网测试完毕后，可以先在测试网络再测试一遍，然后部署到主网络。</span>
